@@ -1,0 +1,20 @@
+h1 {
+	color: blue;
+	text-align: center;
+}
+ul {
+	text-align: center;
+	text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+body {
+	background-color: rgba(0,150,20,.5);
+	font-family: 'Public Sans', sans-serif;
+;
+}
+h3 em {
+	color: red;
+}
+div p {
+	text-align: left;
+}
